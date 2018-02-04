@@ -1,6 +1,4 @@
-# My Blog
-
-Recording pieces of code and life. [http://longqian.me](http://longqian.me)
+# Underground Blog
 
 ### Theme
 
