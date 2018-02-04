@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to merge a subtitle with movie
-description: A blog giving you some insights about how you can merge your subtitle with movie: soft and hard method.
+title: Subtitle Merge
+description: How to merge a subtitle with movie: A blog giving you some insights about how you can merge your subtitle with movie: soft and hard method.
 tags: linux ffmpeg subtitle movie
 ---
 
