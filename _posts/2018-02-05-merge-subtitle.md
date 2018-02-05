@@ -5,3 +5,8 @@ description: Google VR view allows developer to host VR content very easily with
 tags: vrview jekyll blog virtual-reality google-cardboard github-page
 ---
 
+<style>
+.highlight-left {margin-left: 0}
+</style>
+
+
