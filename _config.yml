@@ -15,7 +15,7 @@ author:
   name:           'MC'
   url:            http://mahmutcavdar.com.tr/
 
-paginate:         2
+paginate:         5
 emailme:          mailto:mahmutcvdr@gmail.com
 
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
